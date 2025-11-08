@@ -65,7 +65,3 @@ Huge thanks to:
 
 - All exercises are my own solutions and implementations
 - Some exercises may have alternative or more optimized solutions
-
----
-
-**École 42** | *Peer-to-peer learning, no teachers, no lectures - just you, your peers, and your determination.*
